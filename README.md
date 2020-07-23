@@ -1,5 +1,5 @@
 # pruebaconmiguelsin :computer:
 
 ## Author
-### _Edgar _
+### _Edgar_
 ### _Juanita_
